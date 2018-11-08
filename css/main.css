@@ -45,11 +45,11 @@ body {
   position: absolute;
   top: 7%;
   width: 125px;
-  right: 50%
+  right: 50%;
 }
 
 .robot-head-right {
-  left: 50%
+  left: 50%;
 }
 
 .robot:hover .robot-head-right {
